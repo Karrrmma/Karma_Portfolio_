@@ -12,7 +12,7 @@ const Tools = () => {
   
         {/* Skills Section */}
         <section className="w-4/5 md:w-3/5 mt-10">
-          <h2 className="text-3xl font-bold mb-6 text-yellow-400">Languages</h2>
+          <h2 className="text-3xl font-bold mb-6 text-yellow-400">Frameworks & libraries</h2>
           <div className="space-y-4">
             {[
                 
