@@ -6,7 +6,7 @@ const Tools = () => {
         <header className="w-full text-center py-8">
           <h1 className="text-4xl font-bold">About me</h1>
           <p className="text-lg mt-4 px-6">
-            I am a very ambitious software developer with a unique background that has prepared me to be a team player who communicates effectively, faces problems analytically, and has the technical skills to tackle any challenge.
+          I am a highly motivated software developer with a diverse background that equips me to thrive as a collaborative team player. I excel in effective communication, analytical problem-solving, and leveraging technical expertise to overcome challenges and deliver impactful solutions.
           </p>
         </header>
   
