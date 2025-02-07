@@ -7,7 +7,7 @@ const Homepage = () => {
             Welcome to <span className="text-yellow-400">Karma Portfolio</span>
           </h1>
           <br/>
-          <a href="react/src/assets/Karma_Resume_.pdf" 
+          <a href="/Karma_Resume_.pdf" 
           download
           className='text-yellow-400 font-bold hover:underline'
           style={{ color: 'Yellow' }}>
@@ -28,7 +28,8 @@ const Homepage = () => {
           <p className="mb-4">Thank you for visting my Portfolio!</p>
         
           
-          <a href="react/src/assets/Karma_Resume_.pdf" 
+          <a href="/Karma_Resume_.pdf" 
+        
           download
           className='text-yellow-400 font-bold hover:underline'>
               Download my Resume
